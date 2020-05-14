@@ -28,20 +28,20 @@ console.log(human.name)
 let myDog = new Object();
 let myArray = new Boolean();
 console.log(myArray);
-myDog.name = "Rex";
-myDog.age = 6;
+myDog.name = "Chester";
+myDog.age = 2;
 
 let car = {
     model: "MyCar",
     make: "MyMake",
-    year: 2019
+    year: 2017
 }
 
-let myNames = ["Luke", "Dave", "Steve", "Luke", "Luke", "Steve"];
+let myNames = ["Geoff", "Dave", "Eslin", "Glen", "Glen", "Steve"];
 
 let myNameCounts = [
     {
-        name: "Luke",
+        name: "Glen",
         count: 3
     }, {
         name: "Dave",
